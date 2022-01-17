@@ -1,0 +1,26 @@
+(base) moqadar@Moqadars-Mac-mini wk2 % ping 159.89.117.68
+PING 159.89.117.68 (159.89.117.68): 56 data bytes
+64 bytes from 159.89.117.68: icmp_seq=0 ttl=53 time=35.689 ms
+64 bytes from 159.89.117.68: icmp_seq=1 ttl=53 time=30.109 ms
+64 bytes from 159.89.117.68: icmp_seq=2 ttl=53 time=35.946 ms
+64 bytes from 159.89.117.68: icmp_seq=3 ttl=53 time=30.809 ms
+64 bytes from 159.89.117.68: icmp_seq=4 ttl=53 time=29.888 ms
+64 bytes from 159.89.117.68: icmp_seq=5 ttl=53 time=36.347 ms
+64 bytes from 159.89.117.68: icmp_seq=6 ttl=53 time=37.506 ms
+64 bytes from 159.89.117.68: icmp_seq=7 ttl=53 time=29.168 ms
+64 bytes from 159.89.117.68: icmp_seq=8 ttl=53 time=32.606 ms
+64 bytes from 159.89.117.68: icmp_seq=9 ttl=53 time=34.135 ms
+64 bytes from 159.89.117.68: icmp_seq=10 ttl=53 time=35.797 ms
+64 bytes from 159.89.117.68: icmp_seq=11 ttl=53 time=36.874 ms
+64 bytes from 159.89.117.68: icmp_seq=12 ttl=53 time=29.088 ms
+64 bytes from 159.89.117.68: icmp_seq=13 ttl=53 time=32.302 ms
+64 bytes from 159.89.117.68: icmp_seq=14 ttl=53 time=35.438 ms
+64 bytes from 159.89.117.68: icmp_seq=15 ttl=53 time=30.909 ms
+64 bytes from 159.89.117.68: icmp_seq=16 ttl=53 time=32.562 ms
+64 bytes from 159.89.117.68: icmp_seq=17 ttl=53 time=37.279 ms
+64 bytes from 159.89.117.68: icmp_seq=18 ttl=53 time=34.197 ms
+64 bytes from 159.89.117.68: icmp_seq=19 ttl=53 time=34.329 ms
+^C
+--- 159.89.117.68 ping statistics ---
+20 packets transmitted, 20 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 29.088/33.549/37.506/2.748 ms

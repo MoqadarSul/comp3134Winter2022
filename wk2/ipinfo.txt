@@ -1,0 +1,32 @@
+5 IP addresses of domains
+
+1. Youtube 
+Domain Name Server IP: 142.250.189.206
+[Domain Name]	[Country]	[Region]	[City]
+[youtube.com]	[United States of America] 	[California]	[Mountain View]
+
+
+2. Yahoo
+Domain Name Server IP: 74.6.143.26
+
+[Domain Name]	[Country][Region]	[City]
+[yahoo.com]	[Canada] 	[Ontario]	[Toronto]
+
+
+3. Shopify.ca
+Domain Name Server IP: 34.73.153.179 
+
+[Domain Name]	[Country]	[Region]	[City]
+[shopify.ca]	[United States of America] 	[South Carolina]	[North Charleston]
+
+4. Canada.ca
+Domain Name Server IP: 167.40.79.24
+
+[Domain Name]	[Country]	[Region]	[City]
+[canada.ca]	[Canada] 	[Ontario]	[Ottawa]
+
+5. petronas.com
+Domain Name Server IP: 168.63.239.18
+
+[Domain Name]	[Country]	[Region]	[City]
+[www.petronas.com]	[Singapore]	[Singapore]	[Singapore]

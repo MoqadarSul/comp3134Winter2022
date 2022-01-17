@@ -1,0 +1,36 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 159.89.117.68
+PING 159.89.117.68 (159.89.117.68) 56(84) bytes of data.
+64 bytes from 159.89.117.68: icmp_seq=1 ttl=64 time=0.047 ms
+64 bytes from 159.89.117.68: icmp_seq=2 ttl=64 time=0.066 ms
+64 bytes from 159.89.117.68: icmp_seq=3 ttl=64 time=0.074 ms
+64 bytes from 159.89.117.68: icmp_seq=4 ttl=64 time=0.147 ms
+64 bytes from 159.89.117.68: icmp_seq=5 ttl=64 time=0.074 ms
+64 bytes from 159.89.117.68: icmp_seq=6 ttl=64 time=0.108 ms
+64 bytes from 159.89.117.68: icmp_seq=7 ttl=64 time=0.076 ms
+64 bytes from 159.89.117.68: icmp_seq=8 ttl=64 time=0.075 ms
+64 bytes from 159.89.117.68: icmp_seq=9 ttl=64 time=0.091 ms
+64 bytes from 159.89.117.68: icmp_seq=10 ttl=64 time=0.076 ms
+64 bytes from 159.89.117.68: icmp_seq=11 ttl=64 time=0.086 ms
+64 bytes from 159.89.117.68: icmp_seq=12 ttl=64 time=0.081 ms
+64 bytes from 159.89.117.68: icmp_seq=13 ttl=64 time=0.099 ms
+64 bytes from 159.89.117.68: icmp_seq=14 ttl=64 time=0.078 ms
+64 bytes from 159.89.117.68: icmp_seq=15 ttl=64 time=0.093 ms
+64 bytes from 159.89.117.68: icmp_seq=16 ttl=64 time=0.077 ms
+64 bytes from 159.89.117.68: icmp_seq=17 ttl=64 time=0.083 ms
+64 bytes from 159.89.117.68: icmp_seq=18 ttl=64 time=0.079 ms
+64 bytes from 159.89.117.68: icmp_seq=19 ttl=64 time=0.100 ms
+64 bytes from 159.89.117.68: icmp_seq=20 ttl=64 time=0.090 ms
+64 bytes from 159.89.117.68: icmp_seq=21 ttl=64 time=0.078 ms
+^C
+--- 159.89.117.68 ping statistics ---
+21 packets transmitted, 21 received, 0% packet loss, time 20448ms
+rtt min/avg/max/mdev = 0.047/0.084/0.147/0.018 ms
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 159.89.117.68 -w 2
+PING 159.89.117.68 (159.89.117.68) 56(84) bytes of data.
+64 bytes from 159.89.117.68: icmp_seq=1 ttl=64 time=0.045 ms
+64 bytes from 159.89.117.68: icmp_seq=2 ttl=64 time=0.115 ms
+
+--- 159.89.117.68 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+rtt min/avg/max/mdev = 0.045/0.080/0.115/0.035 ms
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 
