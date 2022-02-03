@@ -1,0 +1,524 @@
+ck 0, win 502, options [nop,nop,TS val 2999292387 ecr 4225757113], length 256
+03:58:44.094093 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1686177:1686433, ack 0, win 502, options [nop,nop,TS val 2999292387 ecr 4225757113], length 256
+03:58:44.094254 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1686433:1686689, ack 0, win 502, options [nop,nop,TS val 2999292388 ecr 4225757113], length 256
+03:58:44.094409 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1686689:1686945, ack 0, win 502, options [nop,nop,TS val 2999292388 ecr 4225757113], length 256
+03:58:44.094566 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1686945:1687201, ack 0, win 502, options [nop,nop,TS val 2999292388 ecr 4225757113], length 256
+03:58:44.094733 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1687201:1687457, ack 0, win 502, options [nop,nop,TS val 2999292388 ecr 4225757113], length 256
+03:58:44.094920 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1687457:1687713, ack 0, win 502, options [nop,nop,TS val 2999292388 ecr 4225757113], length 256
+03:58:44.094957 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1670897, win 501, options [nop,nop,TS val 4225757125 ecr 2999292377], length 0
+03:58:44.095159 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1687713:1688129, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757125], length 416
+03:58:44.095318 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1688129:1688385, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757125], length 256
+03:58:44.095476 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1688385:1688641, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757125], length 256
+03:58:44.095633 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1688641:1688897, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757125], length 256
+03:58:44.095817 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1688897:1689153, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757125], length 256
+03:58:44.095881 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1672353, win 501, options [nop,nop,TS val 4225757126 ecr 2999292377], length 0
+03:58:44.096057 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1689153:1689569, ack 0, win 502, options [nop,nop,TS val 2999292389 ecr 4225757126], length 416
+03:58:44.096243 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1689569:1689825, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757126], length 256
+03:58:44.096400 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1689825:1690081, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757126], length 256
+03:58:44.096586 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1690081:1690337, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757126], length 256
+03:58:44.096742 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1690337:1690593, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757126], length 256
+03:58:44.096913 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1690593:1690849, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757126], length 256
+03:58:44.096954 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1673889, win 489, options [nop,nop,TS val 4225757127 ecr 2999292378], length 0
+03:58:44.097147 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1690849:1691265, ack 0, win 502, options [nop,nop,TS val 2999292390 ecr 4225757127], length 416
+03:58:44.097319 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1691265:1691521, ack 0, win 502, options [nop,nop,TS val 2999292391 ecr 4225757127], length 256
+03:58:44.097474 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1691521:1691777, ack 0, win 502, options [nop,nop,TS val 2999292391 ecr 4225757127], length 256
+03:58:44.097627 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1691777:1692033, ack 0, win 502, options [nop,nop,TS val 2999292391 ecr 4225757127], length 256
+03:58:44.097784 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1692033:1692289, ack 0, win 502, options [nop,nop,TS val 2999292391 ecr 4225757127], length 256
+03:58:44.097934 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1675425, win 501, options [nop,nop,TS val 4225757128 ecr 2999292379], length 0
+03:58:44.098077 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1692289:1692705, ack 0, win 502, options [nop,nop,TS val 2999292391 ecr 4225757128], length 416
+03:58:44.098248 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1692705:1692961, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.098409 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1692961:1693217, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.098566 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1693217:1693473, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.098723 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1693473:1693729, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.098886 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1693729:1693985, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.099053 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1693985:1694241, ack 0, win 502, options [nop,nop,TS val 2999292392 ecr 4225757128], length 256
+03:58:44.099218 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1694241:1694497, ack 0, win 502, options [nop,nop,TS val 2999292393 ecr 4225757128], length 256
+03:58:44.099396 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1694497:1694753, ack 0, win 502, options [nop,nop,TS val 2999292393 ecr 4225757128], length 256
+03:58:44.099495 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1676961, win 501, options [nop,nop,TS val 4225757130 ecr 2999292380], length 0
+03:58:44.099634 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1694753:1695169, ack 0, win 502, options [nop,nop,TS val 2999292393 ecr 4225757130], length 416
+03:58:44.099821 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1695169:1695425, ack 0, win 502, options [nop,nop,TS val 2999292393 ecr 4225757130], length 256
+03:58:44.099992 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1695425:1695681, ack 0, win 502, options [nop,nop,TS val 2999292393 ecr 4225757130], length 256
+03:58:44.100160 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1695681:1695937, ack 0, win 502, options [nop,nop,TS val 2999292394 ecr 4225757130], length 256
+03:58:44.100235 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1678497, win 492, options [nop,nop,TS val 4225757130 ecr 2999292381], length 0
+03:58:44.100405 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1695937:1696353, ack 0, win 502, options [nop,nop,TS val 2999292394 ecr 4225757130], length 416
+03:58:44.100606 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1696353:1696609, ack 0, win 502, options [nop,nop,TS val 2999292394 ecr 4225757130], length 256
+03:58:44.100764 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1696609:1696865, ack 0, win 502, options [nop,nop,TS val 2999292394 ecr 4225757130], length 256
+03:58:44.100936 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1696865:1697121, ack 0, win 502, options [nop,nop,TS val 2999292394 ecr 4225757130], length 256
+03:58:44.101039 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1680033, win 480, options [nop,nop,TS val 4225757131 ecr 2999292382], length 0
+03:58:44.101191 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1697121:1697537, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757131], length 416
+03:58:44.101362 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1697537:1697793, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757131], length 256
+03:58:44.101535 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1697793:1698049, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757131], length 256
+03:58:44.101700 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1698049:1698305, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757131], length 256
+03:58:44.101864 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1698305:1698561, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757131], length 256
+03:58:44.101943 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1681569, win 501, options [nop,nop,TS val 4225757132 ecr 2999292383], length 0
+03:58:44.102114 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1698561:1698977, ack 0, win 502, options [nop,nop,TS val 2999292395 ecr 4225757132], length 416
+03:58:44.102286 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1698977:1699233, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757132], length 256
+03:58:44.102441 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1699233:1699489, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757132], length 256
+03:58:44.102624 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1699489:1699745, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757132], length 256
+03:58:44.102774 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1699745:1700001, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757132], length 256
+03:58:44.102912 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1700001:1700257, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757132], length 256
+03:58:44.102987 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1683105, win 501, options [nop,nop,TS val 4225757133 ecr 2999292384], length 0
+03:58:44.103125 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1700257:1700673, ack 0, win 502, options [nop,nop,TS val 2999292396 ecr 4225757133], length 416
+03:58:44.103273 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1700673:1700929, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757133], length 256
+03:58:44.103443 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1700929:1701185, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757133], length 256
+03:58:44.103580 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1701185:1701441, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757133], length 256
+03:58:44.103746 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1701441:1701697, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757133], length 256
+03:58:44.103886 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1701697:1701953, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757133], length 256
+03:58:44.103955 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1684641, win 489, options [nop,nop,TS val 4225757134 ecr 2999292385], length 0
+03:58:44.104107 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1701953:1702369, ack 0, win 502, options [nop,nop,TS val 2999292397 ecr 4225757134], length 416
+03:58:44.104265 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1702369:1702625, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.104427 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1702625:1702881, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.104611 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1702881:1703137, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.104784 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1703137:1703393, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.104932 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1703393:1703649, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.105075 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1703649:1703905, ack 0, win 502, options [nop,nop,TS val 2999292398 ecr 4225757134], length 256
+03:58:44.105232 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1703905:1704161, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757134], length 256
+03:58:44.105282 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1686177, win 477, options [nop,nop,TS val 4225757135 ecr 2999292386], length 0
+03:58:44.105456 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1704161:1704577, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757135], length 416
+03:58:44.105613 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1704577:1704833, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757135], length 256
+03:58:44.105756 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1704833:1705089, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757135], length 256
+03:58:44.105899 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1705089:1705345, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757135], length 256
+03:58:44.105938 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1687713, win 465, options [nop,nop,TS val 4225757136 ecr 2999292387], length 0
+03:58:44.106115 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1705345:1705761, ack 0, win 502, options [nop,nop,TS val 2999292399 ecr 4225757136], length 416
+03:58:44.106257 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1705761:1706017, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.106402 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1706017:1706273, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.106547 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1706273:1706529, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.106691 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1706529:1706785, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.106843 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1706785:1707041, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.106985 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1707041:1707297, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.107126 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1707297:1707553, ack 0, win 502, options [nop,nop,TS val 2999292400 ecr 4225757136], length 256
+03:58:44.107195 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1689569, win 451, options [nop,nop,TS val 4225757138 ecr 2999292389], length 0
+03:58:44.107343 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1707553:1707969, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 416
+03:58:44.107497 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1707969:1708225, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 256
+03:58:44.107647 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1708225:1708481, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 256
+03:58:44.107822 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1708481:1708737, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 256
+03:58:44.107972 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1708737:1708993, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 256
+03:58:44.108115 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1708993:1709249, ack 0, win 502, options [nop,nop,TS val 2999292401 ecr 4225757138], length 256
+03:58:44.108261 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1709249:1709505, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757138], length 256
+03:58:44.108396 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1691265, win 438, options [nop,nop,TS val 4225757139 ecr 2999292390], length 0
+03:58:44.108477 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1709505:1709761, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757139], length 256
+03:58:44.108680 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1709761:1710177, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757139], length 416
+03:58:44.108831 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1710177:1710433, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757139], length 256
+03:58:44.108983 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1710433:1710689, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757139], length 256
+03:58:44.109127 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1710689:1710945, ack 0, win 502, options [nop,nop,TS val 2999292402 ecr 4225757139], length 256
+03:58:44.109270 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1710945:1711201, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757139], length 256
+03:58:44.109301 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1692961, win 443, options [nop,nop,TS val 4225757140 ecr 2999292391], length 0
+03:58:44.109478 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1711201:1711617, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757140], length 416
+03:58:44.109629 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1711617:1711873, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757140], length 256
+03:58:44.109775 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1711873:1712129, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757140], length 256
+03:58:44.109918 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1712129:1712385, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757140], length 256
+03:58:44.110067 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1712385:1712641, ack 0, win 502, options [nop,nop,TS val 2999292403 ecr 4225757140], length 256
+03:58:44.110210 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1712641:1712897, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757140], length 256
+03:58:44.110309 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1694497, win 431, options [nop,nop,TS val 4225757141 ecr 2999292392], length 0
+03:58:44.110437 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1712897:1713313, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757141], length 416
+03:58:44.110582 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1713313:1713569, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757141], length 256
+03:58:44.110724 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1713569:1713825, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757141], length 256
+03:58:44.110875 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1713825:1714081, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757141], length 256
+03:58:44.111025 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1714081:1714337, ack 0, win 502, options [nop,nop,TS val 2999292404 ecr 4225757141], length 256
+03:58:44.111174 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1714337:1714593, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757141], length 256
+03:58:44.111326 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1714593:1714849, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757141], length 256
+03:58:44.111461 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1696353, win 417, options [nop,nop,TS val 4225757142 ecr 2999292393], length 0
+03:58:44.111536 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1714849:1715105, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757142], length 256
+03:58:44.111759 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1715105:1715521, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757142], length 416
+03:58:44.111918 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1715521:1715777, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757142], length 256
+03:58:44.112068 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1715777:1716033, ack 0, win 502, options [nop,nop,TS val 2999292405 ecr 4225757142], length 256
+03:58:44.112236 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1716033:1716289, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757142], length 256
+03:58:44.112396 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1716289:1716545, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757142], length 256
+03:58:44.112599 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1698049, win 404, options [nop,nop,TS val 4225757143 ecr 2999292394], length 0
+03:58:44.112626 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1716545:1716801, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757142], length 256
+03:58:44.112807 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1716801:1717217, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757143], length 416
+03:58:44.112992 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1717217:1717473, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757143], length 256
+03:58:44.113153 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1717473:1717729, ack 0, win 502, options [nop,nop,TS val 2999292406 ecr 4225757143], length 256
+03:58:44.113325 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1717729:1717985, ack 0, win 502, options [nop,nop,TS val 2999292407 ecr 4225757143], length 256
+03:58:44.113491 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1717985:1718241, ack 0, win 502, options [nop,nop,TS val 2999292407 ecr 4225757143], length 256
+03:58:44.113665 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1718241:1718497, ack 0, win 502, options [nop,nop,TS val 2999292407 ecr 4225757143], length 256
+03:58:44.113841 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1718497:1718753, ack 0, win 502, options [nop,nop,TS val 2999292407 ecr 4225757143], length 256
+03:58:44.114015 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1699745, win 427, options [nop,nop,TS val 4225757144 ecr 2999292395], length 0
+03:58:44.114035 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1718753:1719009, ack 0, win 502, options [nop,nop,TS val 2999292407 ecr 4225757143], length 256
+03:58:44.114214 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1719009:1719425, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757144], length 416
+03:58:44.114372 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1719425:1719681, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757144], length 256
+03:58:44.114530 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1719681:1719937, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757144], length 256
+03:58:44.114678 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1719937:1720193, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757144], length 256
+03:58:44.114768 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1701441, win 414, options [nop,nop,TS val 4225757145 ecr 2999292396], length 0
+03:58:44.114939 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1720193:1720609, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757145], length 416
+03:58:44.115099 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1720609:1720865, ack 0, win 502, options [nop,nop,TS val 2999292408 ecr 4225757145], length 256
+03:58:44.115283 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1720865:1721121, ack 0, win 502, options [nop,nop,TS val 2999292409 ecr 4225757145], length 256
+03:58:44.115456 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1721121:1721377, ack 0, win 502, options [nop,nop,TS val 2999292409 ecr 4225757145], length 256
+03:58:44.115609 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1721377:1721633, ack 0, win 502, options [nop,nop,TS val 2999292409 ecr 4225757145], length 256
+03:58:44.115708 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1703137, win 401, options [nop,nop,TS val 4225757146 ecr 2999292397], length 0
+03:58:44.115865 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1721633:1722049, ack 0, win 502, options [nop,nop,TS val 2999292409 ecr 4225757146], length 416
+03:58:44.116043 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1722049:1722305, ack 0, win 502, options [nop,nop,TS val 2999292409 ecr 4225757146], length 256
+03:58:44.116200 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1722305:1722561, ack 0, win 502, options [nop,nop,TS val 2999292410 ecr 4225757146], length 256
+03:58:44.116368 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1722561:1722817, ack 0, win 502, options [nop,nop,TS val 2999292410 ecr 4225757146], length 256
+03:58:44.116566 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1722817:1723073, ack 0, win 502, options [nop,nop,TS val 2999292410 ecr 4225757146], length 256
+03:58:44.116725 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1723073:1723329, ack 0, win 502, options [nop,nop,TS val 2999292410 ecr 4225757146], length 256
+03:58:44.116920 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1723329:1723585, ack 0, win 502, options [nop,nop,TS val 2999292410 ecr 4225757146], length 256
+03:58:44.117011 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1704833, win 388, options [nop,nop,TS val 4225757147 ecr 2999292398], length 0
+03:58:44.117166 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1723585:1724001, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 416
+03:58:44.117334 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1724001:1724257, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 256
+03:58:44.117510 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1724257:1724513, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 256
+03:58:44.117667 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1724513:1724769, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 256
+03:58:44.117811 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1724769:1725025, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 256
+03:58:44.118002 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1725025:1725281, ack 0, win 502, options [nop,nop,TS val 2999292411 ecr 4225757147], length 256
+03:58:44.118163 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1725281:1725537, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757147], length 256
+03:58:44.118200 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1706529, win 411, options [nop,nop,TS val 4225757148 ecr 2999292399], length 0
+03:58:44.118398 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1725537:1725953, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757148], length 416
+03:58:44.118569 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1725953:1726209, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757148], length 256
+03:58:44.118724 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1726209:1726465, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757148], length 256
+03:58:44.118879 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1726465:1726721, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757148], length 256
+03:58:44.119033 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1726721:1726977, ack 0, win 502, options [nop,nop,TS val 2999292412 ecr 4225757148], length 256
+03:58:44.119105 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1708225, win 398, options [nop,nop,TS val 4225757149 ecr 2999292400], length 0
+03:58:44.119279 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1726977:1727393, ack 0, win 502, options [nop,nop,TS val 2999292413 ecr 4225757149], length 416
+03:58:44.119449 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1727393:1727649, ack 0, win 502, options [nop,nop,TS val 2999292413 ecr 4225757149], length 256
+03:58:44.119632 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1709761, win 386, options [nop,nop,TS val 4225757150 ecr 2999292401], length 0
+03:58:44.119769 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1727649:1727905, ack 0, win 502, options [nop,nop,TS val 2999292413 ecr 4225757150], length 256
+03:58:44.119857 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1727905:1728129, ack 0, win 502, options [nop,nop,TS val 2999292413 ecr 4225757150], length 224
+03:58:44.120053 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1728129:1728577, ack 0, win 502, options [nop,nop,TS val 2999292413 ecr 4225757150], length 448
+03:58:44.120221 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1728577:1728833, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757150], length 256
+03:58:44.120388 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1728833:1729089, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757150], length 256
+03:58:44.120581 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1729089:1729345, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757150], length 256
+03:58:44.120652 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1711617, win 372, options [nop,nop,TS val 4225757151 ecr 2999292402], length 0
+03:58:44.120825 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1729345:1729761, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757151], length 416
+03:58:44.120993 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1729761:1730017, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757151], length 256
+03:58:44.121149 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1730017:1730273, ack 0, win 502, options [nop,nop,TS val 2999292414 ecr 4225757151], length 256
+03:58:44.121319 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1730273:1730529, ack 0, win 502, options [nop,nop,TS val 2999292415 ecr 4225757151], length 256
+03:58:44.121485 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1730529:1730785, ack 0, win 502, options [nop,nop,TS val 2999292415 ecr 4225757151], length 256
+03:58:44.121674 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1730785:1731041, ack 0, win 502, options [nop,nop,TS val 2999292415 ecr 4225757151], length 256
+03:58:44.121841 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1731041:1731297, ack 0, win 502, options [nop,nop,TS val 2999292415 ecr 4225757151], length 256
+03:58:44.121924 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1713313, win 359, options [nop,nop,TS val 4225757152 ecr 2999292403], length 0
+03:58:44.122075 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1731297:1731713, ack 0, win 502, options [nop,nop,TS val 2999292415 ecr 4225757152], length 416
+03:58:44.122248 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1731713:1731969, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757152], length 256
+03:58:44.122421 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1731969:1732225, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757152], length 256
+03:58:44.122586 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1732225:1732481, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757152], length 256
+03:58:44.122748 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1732481:1732737, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757152], length 256
+03:58:44.122801 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1714849, win 347, options [nop,nop,TS val 4225757153 ecr 2999292404], length 0
+03:58:44.122987 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1732737:1733153, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757153], length 416
+03:58:44.123145 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1733153:1733409, ack 0, win 502, options [nop,nop,TS val 2999292416 ecr 4225757153], length 256
+03:58:44.123304 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1733409:1733665, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.123461 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1733665:1733921, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.123633 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1733921:1734177, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.123813 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1734177:1734433, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.123992 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1734433:1734689, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.124148 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1734689:1734945, ack 0, win 502, options [nop,nop,TS val 2999292417 ecr 4225757153], length 256
+03:58:44.124307 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1734945:1735201, ack 0, win 502, options [nop,nop,TS val 2999292418 ecr 4225757153], length 256
+03:58:44.124474 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1735201:1735457, ack 0, win 502, options [nop,nop,TS val 2999292418 ecr 4225757153], length 256
+03:58:44.124683 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1735457:1735713, ack 0, win 502, options [nop,nop,TS val 2999292418 ecr 4225757153], length 256
+03:58:44.124847 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1735713:1735969, ack 0, win 502, options [nop,nop,TS val 2999292418 ecr 4225757153], length 256
+03:58:44.125008 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1735969:1736225, ack 0, win 502, options [nop,nop,TS val 2999292418 ecr 4225757153], length 256
+03:58:44.125184 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1736225:1736481, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757153], length 256
+03:58:44.125343 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1736481:1736737, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757153], length 256
+03:58:44.125498 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1736737:1736993, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757153], length 256
+03:58:44.125563 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1719681, win 310, options [nop,nop,TS val 4225757156 ecr 2999292405], length 0
+03:58:44.125764 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1736993:1737409, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757156], length 416
+03:58:44.125956 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1737409:1737665, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757156], length 256
+03:58:44.126122 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1737665:1737921, ack 0, win 502, options [nop,nop,TS val 2999292419 ecr 4225757156], length 256
+03:58:44.126300 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1737921:1738177, ack 0, win 502, options [nop,nop,TS val 2999292420 ecr 4225757156], length 256
+03:58:44.126468 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1721377, win 297, options [nop,nop,TS val 4225757157 ecr 2999292408], length 0
+03:58:44.126591 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1738177:1738433, ack 0, win 502, options [nop,nop,TS val 2999292420 ecr 4225757157], length 256
+03:58:44.126747 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1738433:1738657, ack 0, win 502, options [nop,nop,TS val 2999292420 ecr 4225757157], length 224
+03:58:44.126830 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1738657:1738913, ack 0, win 502, options [nop,nop,TS val 2999292420 ecr 4225757157], length 256
+03:58:44.127020 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1738913:1739361, ack 0, win 502, options [nop,nop,TS val 2999292420 ecr 4225757157], length 448
+03:58:44.127193 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1739361:1739617, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757157], length 256
+03:58:44.127353 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1739617:1739873, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757157], length 256
+03:58:44.127511 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1739873:1740129, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757157], length 256
+03:58:44.127572 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1723073, win 284, options [nop,nop,TS val 4225757158 ecr 2999292409], length 0
+03:58:44.127765 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1740129:1740545, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757158], length 416
+03:58:44.127950 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1740545:1740801, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757158], length 256
+03:58:44.128118 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1740801:1741057, ack 0, win 502, options [nop,nop,TS val 2999292421 ecr 4225757158], length 256
+03:58:44.128295 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1741057:1741313, ack 0, win 502, options [nop,nop,TS val 2999292422 ecr 4225757158], length 256
+03:58:44.128454 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1741313:1741569, ack 0, win 502, options [nop,nop,TS val 2999292422 ecr 4225757158], length 256
+03:58:44.128645 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1741569:1741825, ack 0, win 502, options [nop,nop,TS val 2999292422 ecr 4225757158], length 256
+03:58:44.128821 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1724769, win 271, options [nop,nop,TS val 4225757159 ecr 2999292410], length 0
+03:58:44.128946 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1741825:1742081, ack 0, win 502, options [nop,nop,TS val 2999292422 ecr 4225757159], length 256
+03:58:44.129108 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1742081:1742305, ack 0, win 502, options [nop,nop,TS val 2999292422 ecr 4225757159], length 224
+03:58:44.129189 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1742305:1742561, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757159], length 256
+03:58:44.129378 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1742561:1743009, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757159], length 448
+03:58:44.129538 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1743009:1743265, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757159], length 256
+03:58:44.129700 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1743265:1743521, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757159], length 256
+03:58:44.129857 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1743521:1743777, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757159], length 256
+03:58:44.129949 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1726465, win 258, options [nop,nop,TS val 4225757160 ecr 2999292411], length 0
+03:58:44.130106 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1743777:1744193, ack 0, win 502, options [nop,nop,TS val 2999292423 ecr 4225757160], length 416
+03:58:44.130272 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1744193:1744449, ack 0, win 502, options [nop,nop,TS val 2999292424 ecr 4225757160], length 256
+03:58:44.130441 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1744449:1744705, ack 0, win 502, options [nop,nop,TS val 2999292424 ecr 4225757160], length 256
+03:58:44.130601 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1744705:1744961, ack 0, win 502, options [nop,nop,TS val 2999292424 ecr 4225757160], length 256
+03:58:44.130761 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1744961:1745217, ack 0, win 502, options [nop,nop,TS val 2999292424 ecr 4225757160], length 256
+03:58:44.130920 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1745217:1745473, ack 0, win 502, options [nop,nop,TS val 2999292424 ecr 4225757160], length 256
+03:58:44.131006 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1728129, win 245, options [nop,nop,TS val 4225757161 ecr 2999292412], length 0
+03:58:44.131177 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1745473:1745889, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 416
+03:58:44.131350 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1745889:1746145, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 256
+03:58:44.131532 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1746145:1746401, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 256
+03:58:44.131713 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1746401:1746657, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 256
+03:58:44.131871 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1746657:1746913, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 256
+03:58:44.132028 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1746913:1747169, ack 0, win 502, options [nop,nop,TS val 2999292425 ecr 4225757161], length 256
+03:58:44.132200 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1747169:1747425, ack 0, win 502, options [nop,nop,TS val 2999292426 ecr 4225757161], length 256
+03:58:44.132375 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1747425:1747681, ack 0, win 502, options [nop,nop,TS val 2999292426 ecr 4225757161], length 256
+03:58:44.132593 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1747681:1747937, ack 0, win 502, options [nop,nop,TS val 2999292426 ecr 4225757161], length 256
+03:58:44.132761 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1747937:1748193, ack 0, win 502, options [nop,nop,TS val 2999292426 ecr 4225757161], length 256
+03:58:44.132828 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1729761, win 233, options [nop,nop,TS val 4225757162 ecr 2999292413], length 0
+03:58:44.132987 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1748193:1748609, ack 0, win 502, options [nop,nop,TS val 2999292426 ecr 4225757162], length 416
+03:58:44.133156 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1748609:1748865, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757162], length 256
+03:58:44.133324 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1748865:1749121, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757162], length 256
+03:58:44.133487 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1749121:1749377, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757162], length 256
+03:58:44.133654 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1749377:1749633, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757162], length 256
+03:58:44.133732 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1731297, win 221, options [nop,nop,TS val 4225757163 ecr 2999292414], length 0
+03:58:44.133894 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1749633:1750049, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757163], length 416
+03:58:44.134066 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1750049:1750305, ack 0, win 502, options [nop,nop,TS val 2999292427 ecr 4225757163], length 256
+03:58:44.134231 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1750305:1750561, ack 0, win 502, options [nop,nop,TS val 2999292428 ecr 4225757163], length 256
+03:58:44.134402 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1750561:1750817, ack 0, win 502, options [nop,nop,TS val 2999292428 ecr 4225757163], length 256
+03:58:44.134565 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1750817:1751073, ack 0, win 502, options [nop,nop,TS val 2999292428 ecr 4225757163], length 256
+03:58:44.134714 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1733153, win 207, options [nop,nop,TS val 4225757164 ecr 2999292415], length 0
+03:58:44.134867 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1751073:1751489, ack 0, win 502, options [nop,nop,TS val 2999292428 ecr 4225757164], length 416
+03:58:44.135027 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1751489:1751745, ack 0, win 502, options [nop,nop,TS val 2999292428 ecr 4225757164], length 256
+03:58:44.135177 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1751745:1752001, ack 0, win 502, options [nop,nop,TS val 2999292429 ecr 4225757164], length 256
+03:58:44.135221 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1734689, win 195, options [nop,nop,TS val 4225757165 ecr 2999292416], length 0
+03:58:44.135408 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1752001:1752417, ack 0, win 502, options [nop,nop,TS val 2999292429 ecr 4225757165], length 416
+03:58:44.135574 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1752417:1752673, ack 0, win 502, options [nop,nop,TS val 2999292429 ecr 4225757165], length 256
+03:58:44.135862 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1752673:1752929, ack 0, win 502, options [nop,nop,TS val 2999292429 ecr 4225757165], length 256
+03:58:44.136051 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1752929:1753185, ack 0, win 502, options [nop,nop,TS val 2999292429 ecr 4225757165], length 256
+03:58:44.136099 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1736225, win 183, options [nop,nop,TS val 4225757166 ecr 2999292417], length 0
+03:58:44.136290 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1753185:1753601, ack 0, win 502, options [nop,nop,TS val 2999292430 ecr 4225757166], length 416
+03:58:44.136434 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1753601:1753857, ack 0, win 502, options [nop,nop,TS val 2999292430 ecr 4225757166], length 256
+03:58:44.136905 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1753857:1754113, ack 0, win 502, options [nop,nop,TS val 2999292430 ecr 4225757166], length 256
+03:58:44.137069 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1754113:1754369, ack 0, win 502, options [nop,nop,TS val 2999292430 ecr 4225757166], length 256
+03:58:44.137184 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1737921, win 170, options [nop,nop,TS val 4225757168 ecr 2999292419], length 0
+03:58:44.137260 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1754369:1754625, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.137429 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1754625:1755041, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 416
+03:58:44.137562 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1755041:1755297, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.137692 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1755297:1755553, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.137829 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1755553:1755809, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.137961 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1755809:1756065, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.138096 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1756065:1756321, ack 0, win 502, options [nop,nop,TS val 2999292431 ecr 4225757168], length 256
+03:58:44.138238 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1756321:1756577, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757168], length 256
+03:58:44.138259 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1739617, win 157, options [nop,nop,TS val 4225757169 ecr 2999292420], length 0
+03:58:44.138424 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1756577:1756993, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 416
+03:58:44.138555 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1756993:1757249, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 256
+03:58:44.138694 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1757249:1757505, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 256
+03:58:44.138824 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1757505:1757761, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 256
+03:58:44.138956 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1757761:1758017, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 256
+03:58:44.139090 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1758017:1758273, ack 0, win 502, options [nop,nop,TS val 2999292432 ecr 4225757169], length 256
+03:58:44.139223 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1758273:1758529, ack 0, win 502, options [nop,nop,TS val 2999292433 ecr 4225757169], length 256
+03:58:44.139350 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1758529:1758785, ack 0, win 502, options [nop,nop,TS val 2999292433 ecr 4225757169], length 256
+03:58:44.139409 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1741313, win 144, options [nop,nop,TS val 4225757170 ecr 2999292421], length 0
+03:58:44.139547 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1758785:1759201, ack 0, win 502, options [nop,nop,TS val 2999292433 ecr 4225757170], length 416
+03:58:44.139723 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1759201:1759457, ack 0, win 502, options [nop,nop,TS val 2999292433 ecr 4225757170], length 256
+03:58:44.139936 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1759457:1759713, ack 0, win 502, options [nop,nop,TS val 2999292433 ecr 4225757170], length 256
+03:58:44.140439 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1743009, win 131, options [nop,nop,TS val 4225757171 ecr 2999292422], length 0
+03:58:44.141559 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1744705, win 118, options [nop,nop,TS val 4225757172 ecr 2999292423], length 0
+03:58:44.142615 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1746401, win 105, options [nop,nop,TS val 4225757173 ecr 2999292424], length 0
+03:58:44.143740 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1747937, win 93, options [nop,nop,TS val 4225757174 ecr 2999292425], length 0
+03:58:44.144858 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1749633, win 80, options [nop,nop,TS val 4225757175 ecr 2999292426], length 0
+03:58:44.146061 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1751489, win 66, options [nop,nop,TS val 4225757176 ecr 2999292427], length 0
+03:58:44.147252 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1753185, win 53, options [nop,nop,TS val 4225757177 ecr 2999292428], length 0
+03:58:44.148522 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1755041, win 39, options [nop,nop,TS val 4225757179 ecr 2999292430], length 0
+03:58:44.149652 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1756577, win 27, options [nop,nop,TS val 4225757180 ecr 2999292431], length 0
+03:58:44.150315 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1758273, win 14, options [nop,nop,TS val 4225757181 ecr 2999292432], length 0
+03:58:44.170039 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1759713, win 281, options [nop,nop,TS val 4225757200 ecr 2999292433], length 0
+03:58:44.170163 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1759713:1762209, ack 0, win 502, options [nop,nop,TS val 2999292463 ecr 4225757200], length 2496
+03:58:44.170566 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1762209:1762641, ack 0, win 502, options [nop,nop,TS val 2999292464 ecr 4225757200], length 432
+03:58:44.170773 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1762641:1762897, ack 0, win 502, options [nop,nop,TS val 2999292464 ecr 4225757200], length 256
+03:58:44.170926 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1762897:1763153, ack 0, win 502, options [nop,nop,TS val 2999292464 ecr 4225757200], length 256
+03:58:44.171084 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1763153:1763409, ack 0, win 502, options [nop,nop,TS val 2999292464 ecr 4225757200], length 256
+03:58:44.171217 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1763409:1763665, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.171349 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1763665:1763921, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.171480 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1763921:1764177, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.171613 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1764177:1764433, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.171778 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1764433:1764689, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.171919 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1764689:1764945, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.172055 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1764945:1765201, ack 0, win 502, options [nop,nop,TS val 2999292465 ecr 4225757200], length 256
+03:58:44.172187 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1765201:1765457, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.172318 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1765457:1765713, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.172455 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1765713:1765969, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.172635 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1765969:1766225, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.172849 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1766225:1766481, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.173024 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1766481:1766737, ack 0, win 502, options [nop,nop,TS val 2999292466 ecr 4225757200], length 256
+03:58:44.173159 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1766737:1766993, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.173291 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1766993:1767249, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.173418 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1767249:1767505, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.173545 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1767505:1767761, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.173671 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1767761:1768017, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.173883 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1768017:1768273, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.174099 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1768273:1768529, ack 0, win 502, options [nop,nop,TS val 2999292467 ecr 4225757200], length 256
+03:58:44.174242 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1768529:1768785, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.174372 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1768785:1769041, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.174506 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1769041:1769297, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.174640 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1769297:1769553, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.174824 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1769553:1769809, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.175017 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1769809:1770065, ack 0, win 502, options [nop,nop,TS val 2999292468 ecr 4225757200], length 256
+03:58:44.175160 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1770065:1770321, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.175298 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1770321:1770577, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.175426 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1770577:1770833, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.175593 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1770833:1771089, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.175799 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1771089:1771345, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.175954 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1771345:1771601, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.176092 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1771601:1771857, ack 0, win 502, options [nop,nop,TS val 2999292469 ecr 4225757200], length 256
+03:58:44.176222 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1771857:1772113, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.176365 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1772113:1772369, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.176492 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1772369:1772625, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.176645 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1772625:1772881, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.176776 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1772881:1773137, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.176904 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1773137:1773393, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.177031 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1773393:1773649, ack 0, win 502, options [nop,nop,TS val 2999292470 ecr 4225757200], length 256
+03:58:44.177157 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1773649:1773905, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.177289 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1773905:1774161, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.177418 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1774161:1774417, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.177543 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1774417:1774673, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.177671 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1774673:1774929, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.177815 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1774929:1775185, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.178005 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1775185:1775441, ack 0, win 502, options [nop,nop,TS val 2999292471 ecr 4225757200], length 256
+03:58:44.178152 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1775441:1775697, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.178323 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1775697:1775953, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.178560 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1775953:1776209, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.178775 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1776209:1776465, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.178917 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1776465:1776721, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.179060 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1776721:1776977, ack 0, win 502, options [nop,nop,TS val 2999292472 ecr 4225757200], length 256
+03:58:44.179229 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1776977:1777233, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.179369 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1777233:1777489, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.179556 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1777489:1777745, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.179730 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1777745:1778001, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.179860 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1778001:1778257, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.179990 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1778257:1778513, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.180122 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1778513:1778769, ack 0, win 502, options [nop,nop,TS val 2999292473 ecr 4225757200], length 256
+03:58:44.180249 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1778769:1779025, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.180376 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1779025:1779281, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.180502 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1779281:1779537, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.180669 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1779537:1779793, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.180801 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1779793:1780049, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.180984 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1780049:1780305, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.181129 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1780305:1780561, ack 0, win 502, options [nop,nop,TS val 2999292474 ecr 4225757200], length 256
+03:58:44.181304 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1762209, win 410, options [nop,nop,TS val 4225757212 ecr 2999292463], length 0
+03:58:44.181421 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1780561:1780817, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 256
+03:58:44.181553 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1780817:1781041, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 224
+03:58:44.181616 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1781041:1781297, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 256
+03:58:44.181793 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1781297:1781745, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 448
+03:58:44.181925 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1781745:1782001, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 256
+03:58:44.182058 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1782001:1782257, ack 0, win 502, options [nop,nop,TS val 2999292475 ecr 4225757212], length 256
+03:58:44.182198 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1782257:1782513, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757212], length 256
+03:58:44.182238 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1763665, win 399, options [nop,nop,TS val 4225757213 ecr 2999292464], length 0
+03:58:44.182391 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1782513:1782929, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757213], length 416
+03:58:44.182526 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1782929:1783185, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757213], length 256
+03:58:44.182656 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1783185:1783441, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757213], length 256
+03:58:44.182858 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1783441:1783697, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757213], length 256
+03:58:44.183021 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1783697:1783953, ack 0, win 502, options [nop,nop,TS val 2999292476 ecr 4225757213], length 256
+03:58:44.183087 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1765201, win 387, options [nop,nop,TS val 4225757213 ecr 2999292465], length 0
+03:58:44.183235 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1783953:1784369, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 416
+03:58:44.183379 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1784369:1784625, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.183520 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1784625:1784881, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.183680 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1784881:1785137, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.183816 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1785137:1785393, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.183949 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1785393:1785649, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.184077 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1785649:1785905, ack 0, win 502, options [nop,nop,TS val 2999292477 ecr 4225757213], length 256
+03:58:44.184115 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1766737, win 375, options [nop,nop,TS val 4225757214 ecr 2999292466], length 0
+03:58:44.184336 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1785905:1786321, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 416
+03:58:44.184481 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1786321:1786577, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 256
+03:58:44.184638 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1786577:1786833, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 256
+03:58:44.184768 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1786833:1787089, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 256
+03:58:44.184895 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1787089:1787345, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 256
+03:58:44.185049 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1768273, win 363, options [nop,nop,TS val 4225757215 ecr 2999292467], length 0
+03:58:44.185073 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1787345:1787601, ack 0, win 502, options [nop,nop,TS val 2999292478 ecr 4225757214], length 256
+03:58:44.185337 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1787601:1788017, ack 0, win 502, options [nop,nop,TS val 2999292479 ecr 4225757215], length 416
+03:58:44.185501 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1788017:1788273, ack 0, win 502, options [nop,nop,TS val 2999292479 ecr 4225757215], length 256
+03:58:44.185638 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1788273:1788529, ack 0, win 502, options [nop,nop,TS val 2999292479 ecr 4225757215], length 256
+03:58:44.185779 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1788529:1788785, ack 0, win 502, options [nop,nop,TS val 2999292479 ecr 4225757215], length 256
+03:58:44.185865 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1769809, win 351, options [nop,nop,TS val 4225757216 ecr 2999292467], length 0
+03:58:44.186028 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1788785:1789201, ack 0, win 502, options [nop,nop,TS val 2999292479 ecr 4225757216], length 416
+03:58:44.186285 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1789201:1789457, ack 0, win 502, options [nop,nop,TS val 2999292480 ecr 4225757216], length 256
+03:58:44.186466 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1789457:1789713, ack 0, win 502, options [nop,nop,TS val 2999292480 ecr 4225757216], length 256
+03:58:44.186602 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1789713:1789969, ack 0, win 502, options [nop,nop,TS val 2999292480 ecr 4225757216], length 256
+03:58:44.186798 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1789969:1790225, ack 0, win 502, options [nop,nop,TS val 2999292480 ecr 4225757216], length 256
+03:58:44.186942 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1771345, win 339, options [nop,nop,TS val 4225757217 ecr 2999292468], length 0
+03:58:44.187066 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1790225:1790641, ack 0, win 502, options [nop,nop,TS val 2999292480 ecr 4225757217], length 416
+03:58:44.187264 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1790641:1790897, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757217], length 256
+03:58:44.187426 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1790897:1791153, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757217], length 256
+03:58:44.187613 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1791153:1791409, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757217], length 256
+03:58:44.187680 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1772881, win 327, options [nop,nop,TS val 4225757218 ecr 2999292469], length 0
+03:58:44.187840 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1791409:1791825, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757218], length 416
+03:58:44.187975 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1791825:1792081, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757218], length 256
+03:58:44.188107 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1792081:1792337, ack 0, win 502, options [nop,nop,TS val 2999292481 ecr 4225757218], length 256
+03:58:44.188234 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1792337:1792593, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757218], length 256
+03:58:44.188361 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1792593:1792849, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757218], length 256
+03:58:44.188424 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1774417, win 315, options [nop,nop,TS val 4225757219 ecr 2999292470], length 0
+03:58:44.188589 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1792849:1793265, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757219], length 416
+03:58:44.188758 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1793265:1793521, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757219], length 256
+03:58:44.188924 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1793521:1793777, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757219], length 256
+03:58:44.189137 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1793777:1794033, ack 0, win 502, options [nop,nop,TS val 2999292482 ecr 4225757219], length 256
+03:58:44.189291 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1794033:1794289, ack 0, win 502, options [nop,nop,TS val 2999292483 ecr 4225757219], length 256
+03:58:44.189405 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1775953, win 303, options [nop,nop,TS val 4225757220 ecr 2999292471], length 0
+03:58:44.189657 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1794289:1794705, ack 0, win 502, options [nop,nop,TS val 2999292483 ecr 4225757220], length 416
+03:58:44.189966 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1794705:1794961, ack 0, win 502, options [nop,nop,TS val 2999292483 ecr 4225757220], length 256
+03:58:44.190213 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1794961:1795217, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757220], length 256
+03:58:44.190365 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1795217:1795473, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757220], length 256
+03:58:44.190498 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1795473:1795729, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757220], length 256
+03:58:44.190524 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1777489, win 291, options [nop,nop,TS val 4225757221 ecr 2999292472], length 0
+03:58:44.190681 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1795729:1796145, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757221], length 416
+03:58:44.190835 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1796145:1796401, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757221], length 256
+03:58:44.191077 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1796401:1796657, ack 0, win 502, options [nop,nop,TS val 2999292484 ecr 4225757221], length 256
+03:58:44.191273 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1779025, win 279, options [nop,nop,TS val 4225757222 ecr 2999292473], length 0
+03:58:44.191351 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1796657:1796913, ack 0, win 502, options [nop,nop,TS val 2999292485 ecr 4225757222], length 256
+03:58:44.191524 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1796913:1797329, ack 0, win 502, options [nop,nop,TS val 2999292485 ecr 4225757222], length 416
+03:58:44.191677 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1797329:1797585, ack 0, win 502, options [nop,nop,TS val 2999292485 ecr 4225757222], length 256
+03:58:44.191826 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1797585:1797841, ack 0, win 502, options [nop,nop,TS val 2999292485 ecr 4225757222], length 256
+03:58:44.192028 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1797841:1798097, ack 0, win 502, options [nop,nop,TS val 2999292485 ecr 4225757222], length 256
+03:58:44.192148 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1780561, win 267, options [nop,nop,TS val 4225757223 ecr 2999292474], length 0
+03:58:44.192220 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1798097:1798353, ack 0, win 502, options [nop,nop,TS val 2999292486 ecr 4225757223], length 256
+03:58:44.192419 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1798353:1798769, ack 0, win 502, options [nop,nop,TS val 2999292486 ecr 4225757223], length 416
+03:58:44.192654 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1798769:1799025, ack 0, win 502, options [nop,nop,TS val 2999292486 ecr 4225757223], length 256
+03:58:44.192801 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1799025:1799281, ack 0, win 502, options [nop,nop,TS val 2999292486 ecr 4225757223], length 256
+03:58:44.192932 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1799281:1799537, ack 0, win 502, options [nop,nop,TS val 2999292486 ecr 4225757223], length 256
+03:58:44.193074 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1782257, win 254, options [nop,nop,TS val 4225757223 ecr 2999292475], length 0
+03:58:44.193188 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1799537:1799793, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.193321 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1799793:1800209, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 416
+03:58:44.193466 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1800209:1800465, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.193592 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1800465:1800721, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.193718 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1800721:1800977, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.193846 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1800977:1801233, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.193981 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1801233:1801489, ack 0, win 502, options [nop,nop,TS val 2999292487 ecr 4225757223], length 256
+03:58:44.194043 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1783953, win 241, options [nop,nop,TS val 4225757224 ecr 2999292476], length 0
+03:58:44.194171 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1801489:1801905, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 416
+03:58:44.194307 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1801905:1802161, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.194432 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1802161:1802417, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.194578 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1802417:1802673, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.194709 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1802673:1802929, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.194835 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1802929:1803185, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.194959 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1803185:1803441, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.195098 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1785649, win 228, options [nop,nop,TS val 4225757225 ecr 2999292477], length 0
+03:58:44.195117 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1803441:1803697, ack 0, win 502, options [nop,nop,TS val 2999292488 ecr 4225757224], length 256
+03:58:44.195271 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1803697:1804113, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757225], length 416
+03:58:44.195404 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1804113:1804369, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757225], length 256
+03:58:44.195531 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1804369:1804625, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757225], length 256
+03:58:44.195685 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1804625:1804881, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757225], length 256
+03:58:44.195815 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1804881:1805137, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757225], length 256
+03:58:44.195945 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1787345, win 215, options [nop,nop,TS val 4225757226 ecr 2999292477], length 0
+03:58:44.196052 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1805137:1805393, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757226], length 256
+03:58:44.196127 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1805393:1805617, ack 0, win 502, options [nop,nop,TS val 2999292489 ecr 4225757226], length 224
+03:58:44.196279 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1805617:1806065, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 448
+03:58:44.196405 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1806065:1806321, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 256
+03:58:44.196555 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1806321:1806577, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 256
+03:58:44.196680 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1806577:1806833, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 256
+03:58:44.196813 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1806833:1807089, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 256
+03:58:44.196940 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1807089:1807345, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757226], length 256
+03:58:44.197067 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1789201, win 201, options [nop,nop,TS val 4225757227 ecr 2999292478], length 0
+03:58:44.197113 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1807345:1807601, ack 0, win 502, options [nop,nop,TS val 2999292490 ecr 4225757227], length 256
+03:58:44.197288 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1807601:1808017, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 416
+03:58:44.197418 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1808017:1808273, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.197547 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1808273:1808529, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.197672 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1808529:1808785, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.197811 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1808785:1809041, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.197944 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1809041:1809297, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.198070 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1809297:1809553, ack 0, win 502, options [nop,nop,TS val 2999292491 ecr 4225757227], length 256
+03:58:44.198203 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1809553:1809809, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757227], length 256
+03:58:44.198285 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1790897, win 188, options [nop,nop,TS val 4225757229 ecr 2999292480], length 0
+03:58:44.198399 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1809809:1810225, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 416
+03:58:44.198534 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1810225:1810481, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 256
+03:58:44.198662 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1810481:1810737, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 256
+03:58:44.198857 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1810737:1810993, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 256
+03:58:44.199018 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1810993:1811249, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 256
+03:58:44.199150 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1811249:1811505, ack 0, win 502, options [nop,nop,TS val 2999292492 ecr 4225757229], length 256
+03:58:44.199265 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1792593, win 175, options [nop,nop,TS val 4225757230 ecr 2999292481], length 0
+03:58:44.199332 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1811505:1811761, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 256
+03:58:44.199499 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1811761:1812177, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 416
+03:58:44.199631 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1812177:1812433, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 256
+03:58:44.199788 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1812433:1812689, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 256
+03:58:44.199985 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1812689:1812945, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 256
+03:58:44.200132 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1812945:1813201, ack 0, win 502, options [nop,nop,TS val 2999292493 ecr 4225757230], length 256
+03:58:44.200268 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.188.66.61287: Flags [P.], seq 1813201:1813457, ack 0, win 502, options [nop,nop,TS val 2999292494 ecr 4225757230], length 256
+03:58:44.200381 IP 162.243.188.66.61287 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1794289, win 162, options [nop,nop,TS val 4225757231 ecr 2999292482], length 0
