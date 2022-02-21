@@ -1,0 +1,4 @@
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nano /etc/ssh/sshd_config
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo service ssh restart
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ssh 159.89.117.68 -p 2222
